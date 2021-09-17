@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<script type="text/javascript">
+		function fn_validate(){
+			var frmLogin = document.frmLogin;
+			var user_id = frmLogin.user_id.value;
+			var user_pw = frmLogin.user_pw.value;
+			
+			if((user_id.length == 0 || user_id =="") || (user_pw.length == 0 || user_pw ==""))
+		}
+	</script>	
+	<title>로그인창</title>
+</head>
+<body>
+
+</body>
+</html>
