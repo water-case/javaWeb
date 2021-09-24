@@ -1,9 +1,0 @@
-package ex01;
-
-import javax.servlet.http.HttpServlet;
-
-public class SecondServlet extends HttpServlet{
-
-	
-	
-}
