@@ -1,8 +1,0 @@
-package ex01;
-
-import javax.servlet.annotation.WebServlet;
-
-@WebServlet("/member")
-public class MemberServlet {
-	
-}
